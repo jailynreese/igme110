@@ -41,7 +41,7 @@ nav{
     padding-top: 50px;
     margin: 0;
     font-weight: bolder;
-    font-size: 200%;
+    font-size: 210%;
     
 }
 
@@ -69,7 +69,7 @@ footer{
     padding-left: 17%;
     padding-top: 50px;
     margin: 0;
-    font-size: 180%;
+    font-size: 210%;
 }
 
 p{
@@ -77,21 +77,21 @@ p{
     padding-left: 17%;
     padding-right: 17%;
     padding-top: 0px;
-    font-size: 130%;
+    font-size: 120%;
 }
 
 .subtitle{
     font-family: "ABeeZee", sans-serif;
     padding-left: 17%;
     margin-bottom: 0%;
-    font-size: 150%;
+    font-size: 160%;
 }
 
 ul{
     padding-left: 23%;
     padding-right: 23%;
     font-family: "ABeeZee", sans-serif;
-    font-size: 140%
+    font-size: 130%
     
 }
 
