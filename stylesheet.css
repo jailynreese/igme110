@@ -9,7 +9,7 @@ header{
     background-color: #38b6ff;
     font-family: "cairo", sans-serif;
     font-weight: bolder;
-    padding-left: 100px;
+    padding-left: 80px;
     padding-top: 0px;
     padding-bottom: 0px;
 }
@@ -37,7 +37,7 @@ nav{
 .sitetitle {
     font-family: "ABeeZee", sans-serif;
     padding-left: 17%;
-    padding-top: 100px;
+    padding-top: 50px;
     margin: 0;
     font-weight: bolder;
     
@@ -65,7 +65,7 @@ footer{
     font-family: "ABeeZee", sans-serif;
     font-weight: bolder;
     padding-left: 17%;
-    padding-top: 100px;
+    padding-top: 50px;
     margin: 0;
 }
 
@@ -74,7 +74,7 @@ p{
     padding-left: 17%;
     padding-right: 17%;
     padding-top: 0px;
-    line-height: 55px;
+    line-height: 25px;
 }
 
 .subtitle{
@@ -87,7 +87,7 @@ ul{
     padding-left: 23%;
     padding-right: 23%;
     font-family: "ABeeZee", sans-serif;
-    line-height: 60px;
+    line-height: 40px;
     
 }
 
