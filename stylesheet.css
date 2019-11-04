@@ -20,7 +20,7 @@ nav{
     background-color: rgb(56, 182, 255, 0.43);
     color: black;
     font-family: "ABeeZee", sans-serif;
-    font-size: 40%;
+    font-size: 120%;
     margin: 0;
     padding: 0.5%;
     text-align: center;
@@ -40,7 +40,7 @@ nav{
     padding-top: 50px;
     margin: 0;
     font-weight: bolder;
-    font-size: 110%;
+    font-size: 200%;
     
 }
 
@@ -68,7 +68,7 @@ footer{
     padding-left: 17%;
     padding-top: 50px;
     margin: 0;
-    font-size: 110%;
+    font-size: 180%;
 }
 
 p{
@@ -76,6 +76,7 @@ p{
     padding-left: 17%;
     padding-right: 17%;
     padding-top: 0px;
+    font-size: 120%;
 }
 
 .subtitle{
@@ -89,7 +90,6 @@ ul{
     padding-right: 23%;
     font-family: "ABeeZee", sans-serif;
     line-height: 0%;
-    font-size: 500%;
     
 }
 
