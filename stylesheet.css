@@ -88,6 +88,7 @@ ul{
     padding-left: 23%;
     padding-right: 23%;
     font-family: "ABeeZee", sans-serif;
+    line-height: 0%;
     
 }
 
@@ -101,10 +102,6 @@ ul{
     margin: auto;
     width: 25%;
     height: auto;
-    padding-top: 100px;
+    padding-top: 50px;
 }
 
-.imglinks{
-    text-decoration: none;
-    padding: 5px;
-}
