@@ -9,10 +9,10 @@ header{
     background-color: #38b6ff;
     font-family: "cairo", sans-serif;
     font-weight: bolder;
-    padding-left: 80px;
+    padding-left: 50px;
     padding-top: 0px;
     padding-bottom: 0px;
-    font-size: 120%;
+    font-size: 140%;
 }
 
 nav{
@@ -84,12 +84,14 @@ p{
     font-family: "ABeeZee", sans-serif;
     padding-left: 17%;
     margin-bottom: 0%;
+    font-size: 110%;
 }
 
 ul{
     padding-left: 23%;
     padding-right: 23%;
     font-family: "ABeeZee", sans-serif;
+    font-size: 120%
     
 }
 
