@@ -12,6 +12,7 @@ header{
     padding-left: 80px;
     padding-top: 0px;
     padding-bottom: 0px;
+    font-size: 120%;
 }
 
 nav{
@@ -20,7 +21,7 @@ nav{
     background-color: rgb(56, 182, 255, 0.43);
     color: black;
     font-family: "ABeeZee", sans-serif;
-    font-size: 120%;
+    font-size: 80%;
     margin: 0;
     padding: 0.5%;
     text-align: center;
@@ -89,7 +90,6 @@ ul{
     padding-left: 23%;
     padding-right: 23%;
     font-family: "ABeeZee", sans-serif;
-    line-height: 0%;
     
 }
 
@@ -103,5 +103,6 @@ ul{
     margin: auto;
     width: 25%;
     height: auto;
+    padding-top: 50px;
 }
 
